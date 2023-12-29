@@ -150,7 +150,7 @@ a:focus {
 /* Hero */
 
 #hero {
-  background-image: url(../img/balally-bg-01.jpg);
+  background-image: url(../img/dundrum-bridge-01.jpg);
   background-repeat: no-repeat;
   height: 100vh;
   min-height: 375px;
@@ -191,6 +191,11 @@ a:focus {
 
 .tm-hero-text-container-inner {
   margin-top: -90px;
+  background-color: rgba(100, 100, 100, 0.4);
+  max-width: 1275px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
 }
 
 .tm-hero-title {
